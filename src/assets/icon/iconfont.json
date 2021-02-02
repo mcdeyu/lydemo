@@ -1,0 +1,16 @@
+{
+  "id": "2361757",
+  "name": "乐言",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15726723",
+      "name": "安全",
+      "font_class": "security",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
